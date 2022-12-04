@@ -5,4 +5,4 @@
 #define SECRET_PASS "SOMEPASSWORD"	// replace MyPassword with your WiFi password
 
 #define SECRET_CH_ID CHANNEL_ID			// replace 0000000 with your channel number
-#define SECRET_WRITE_APIKEY "SOMEPASSWORD"   // replace XYZ with your channel write API Key
+#define SECRET_WRITE_APIKEY "WRITE_KEY"   // replace XYZ with your channel write API Key
